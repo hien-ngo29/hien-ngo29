@@ -1,5 +1,5 @@
 ### Hi everyone! 👋
-- I'm a senior middle school student, mid-level Python and C++ programmer, I'm a Vietnamese/English translator of some repos as well (Although my English skill is not really really good).
+- I'm a senior middle school student, mid-level Python and C++ programmer. I'm also a Vietnamese/English translator of some repos(Although my English skill is not really really good).
 
 - My favorite job is contributing repos on Github.
 
